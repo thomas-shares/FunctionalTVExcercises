@@ -1,6 +1,6 @@
 # tv
 
-FIXME: my new application.
+My attempt at some of Functional TV Exercises
 
 ## Installation
 
@@ -8,7 +8,6 @@ Download from https://github.com/functional/tv
 
 ## Usage
 
-FIXME: explanation
 
 Run the project directly, via `:exec-fn`:
 
